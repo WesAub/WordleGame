@@ -15,7 +15,7 @@
 import random as ran
 
 #creating arbitrary 5 letter word library
-#imprive by includinig a more sophisticated list/ library of genetating 5 letter words
+#improve by includinig a more sophisticated list/ library of genetating 5 letter words
 
 WOD_dictionary = ["hater","loser", "doves", "clove","arise","cloak"] # use a real 5 letter word generator so that you can use letters with x.
 
